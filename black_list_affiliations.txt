@@ -510,3 +510,4 @@ Ret
 Admiral
 Chaplain
 Nurse
+Chefarzt
