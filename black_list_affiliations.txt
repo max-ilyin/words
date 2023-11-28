@@ -1,15 +1,3 @@
-
- __ 
-,  
-, ,
-,,
-.  
-..
-@
-/
-\n
-†
-¬
 adjunct
 Adviser
 Advisor
@@ -46,7 +34,7 @@ Dirigente
 Doc.
 Docteur
 Doctor
-Dr 
+Dr
 Dr.
 editor
 emeriti
@@ -68,11 +56,11 @@ Mebmer
 Member
 Memmer
 memner
-Mr 
+Mr
 Mr.
 Mrs
 Mrs.
-Ms 
+Ms
 Ms.
 Obstetrician
 Officer
@@ -82,10 +70,10 @@ Physiotherapist
 Practitioner
 President
 Principal
-Prof 
+Prof
 Prof.
 Profesor
-Professeur 
+Professeur
 Professor
 Proffessor
 Radiographer
@@ -106,7 +94,7 @@ staff
 Superintendant
 Supervisor
 surgeon
-Tel 
+Tel
 Tel.
 Tel:
 Tesoriere
@@ -116,7 +104,7 @@ Treasurer
 VALUE!
 Vice
 Vice President
-Vice Presidente 
+Vice Presidente
 volunteer
 volunter
 Adhérent
@@ -526,7 +514,7 @@ Pediatrician
 Phamacoeconomist
 Obstetrician
 Superintendent
-Ret 
+Ret
 Admiral
 Chaplain
 Nurse
