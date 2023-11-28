@@ -4,7 +4,6 @@ Advisor
 Analyst
 anesthetist
 Ass
-Ass\.
 Assist
 Assoc
 associate
@@ -31,11 +30,10 @@ deputy
 Director
 Direttore
 Dirigente
-Doc\.
+Doc
 Docteur
 Doctor
 Dr
-Dr\.
 editor
 emeriti
 emeritus
@@ -57,11 +55,8 @@ Member
 Memmer
 memner
 Mr
-Mr\.
 Mrs
-Mrs\.
 Ms
-Ms\.
 Obstetrician
 Officer
 Past
@@ -71,7 +66,6 @@ Practitioner
 President
 Principal
 Prof
-Prof\.
 Profesor
 Professeur
 Professor
@@ -95,13 +89,11 @@ Superintendant
 Supervisor
 surgeon
 Tel
-Tel\.
-Tel:
 Tesoriere
 therapist
 Trainee
 Treasurer
-VALUE!
+VALUE
 Vice
 Vice President
 Vice Presidente
@@ -268,7 +260,7 @@ rådgiver
 Rahastonhoitaja
 Rechnungsprüfer
 Rechnungsprüferin
-Rep\.
+Rep
 repræsentant
 Repräsentant
 Representant
@@ -435,7 +427,7 @@ Tanácsadó
 Committeeperson
 Appointee
 Co-opted
-Repr\.
+Repr
 Tresorer
 Cónsul
 Colaborador
