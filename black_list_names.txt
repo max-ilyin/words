@@ -30,7 +30,7 @@ Argentina
 Armenia
 Asia
 Ass
-Ass.
+Ass\.
 Assist
 Assistance
 associate
@@ -141,9 +141,9 @@ Clínico
 Clinics
 Cluj-Napoca
 Co-
-Co.Ltd.
+Co\.Ltd\.
 Coimbra
-Col.
+Col\.
 collaboration
 college
 colombia
@@ -186,7 +186,7 @@ database
 Denmark
 Department
 Dept
-dept.
+dept\.
 deputy
 dermatologist
 Dermatology
@@ -200,12 +200,12 @@ Diseases
 division
 djibouti
 Doc
-Doc.
+Doc\.
 Docteur
 Doctor
 dominican republic
 Dr
-Dr.
+Dr\.
 Dresden
 Duisburg-Essen
 Dundonald
@@ -384,8 +384,8 @@ Liverpool
 Ljubljana
 Lørenskog
 Lt Col
-Lt.
-Lt. Col.
+Lt\.
+Lt\. Col\.
 Luxembourg
 Maastricht
 Maccallum
@@ -432,11 +432,11 @@ Montreal
 Morocco
 mozambique
 Mr
-Mr.
+Mr\.
 Mrs
-Mrs.
+Mrs\.
 Ms
-Ms.
+Ms\.
 München
 Münster
 Myanmar
@@ -517,7 +517,7 @@ Presbyterian
 President
 Proctología
 Prof
-Prof.
+Prof\.
 Profesor
 Professeur
 Professor
@@ -532,7 +532,7 @@ Redsalud
 Regenerative
 relation
 Representative
-rer.
+rer\.
 Researcher
 Reserve
 resource
@@ -1394,8 +1394,8 @@ Referente
 Regent
 Regionale
 Regionali
-Rep.
-Repr.
+Rep\.
+Repr\.
 repræsentant
 Repræsentantskab
 Repræsentantskabet
@@ -1953,10 +1953,10 @@ South Dakota
 Split
 Springfield
 Sri Jayawardenepura Kotte
-St. Gallen
-St. George's
-St. John's
-St. Paul
+St\. Gallen
+St\. George's
+St\. John's
+St\. Paul
 Stara Zagora
 Stavanger
 Subotica
