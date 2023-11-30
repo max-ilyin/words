@@ -391,3 +391,13 @@ Historian
 Facilitator
 Fundador
 Consejero
+Vorsitzender
+Schriftführer
+Ehrenvorsitzende
+Ehrenmitglied
+Subsecretaria
+Subsecretaría
+Subtesorero
+Gobernador
+Vicepresidenta
+Representante
