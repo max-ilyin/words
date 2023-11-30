@@ -405,3 +405,4 @@ Betriebsratsmitglied
 Kassaverwaltung
 Schriftführung
 Vice‐Présidente
+VP
