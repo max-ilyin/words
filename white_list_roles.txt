@@ -401,3 +401,8 @@ Subtesorero
 Gobernador
 Vicepresidenta
 Representante
+Betriebsratsmitglied
+Kassaverwaltung
+Schriftführung
+VP
+Vice‐Présidente
