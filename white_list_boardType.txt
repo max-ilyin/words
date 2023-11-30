@@ -1,6 +1,5 @@
 ﻿Board
 Æresmedlemmer
-AG
 Arbeitsgemeinschaft
 Arbeitskreis
 Assembly
@@ -159,12 +158,9 @@ raad
 Råd
 Rada
 Representative
-RIG
 Rukovodstvo
 Ryhmä
-SAC
 Sąd
-SAG
 Savet
 schaftsrat
 Secção
@@ -176,7 +172,6 @@ Sekcja
 Seksi
 Sektion
 Sezione
-SIG
 Socios de Honor
 Socios Fundadores
 Socios Honorarios
@@ -212,7 +207,6 @@ Vodstvo
 Vorstand
 Výbor
 Werkgroep
-WG
 Work Force
 Work Group
 Workforce
@@ -264,3 +258,4 @@ Sección
 Senado
 Senate
 Betriebsrat
+División
