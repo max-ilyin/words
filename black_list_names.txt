@@ -4,7 +4,8 @@ Academic
 Access
 Accreditation
 Addiction
-Addis Ababa
+Addis
+Ababa
 Adhérent
 aditorial
 Adjoint
@@ -89,7 +90,7 @@ Aufsichtsrat
 Auliikmed
 Ausschuss
 Australia
-Austria 
+Austria
 author
 Autonoma
 Autopsy
@@ -123,7 +124,7 @@ Bern
 Bestuur
 Białystok
 Bidang
-Biochemistry 
+Biochemistry
 Bioethics
 Bioinformatics
 Biology
@@ -142,18 +143,21 @@ Brussels
 Bruxelles
 Bucharest
 Budapest
-Buenos Aires
+Buenos
+Aires
 Bulgaria
 Bureau
 Burgas
-burkina faso
+burkina
+faso
 Cabang
 Cacak
 California
 cambodia
 Cambridge
 canada
-Cape Town
+Cape
+Town
 Capital
 Capítulo
 Cardiac
@@ -313,7 +317,6 @@ Departamentul
 Departemen
 Department
 Dept
-dept.
 deputy
 dermatologist
 Dermatology
@@ -321,7 +324,8 @@ Dermatopathologist
 Detroit
 develop
 Development
-Developmental-Behavioral
+Developmental
+Behavioral
 Device
 Diagnostic
 Diagnostics
@@ -397,7 +401,7 @@ europe
 Evaluation
 event
 Events
-Ex-Officio
+Officio
 Exchange
 ExCo
 executive
@@ -457,7 +461,7 @@ Genomic
 Genomics
 Geriatric
 Geriatrician
-Germany 
+Germany
 Gerontology
 Geschäftsführer
 Geschäftsführerin
@@ -492,7 +496,8 @@ Herzigovina
 High
 Histopathology
 honduras
-Hong Kong
+Hong
+Kong
 Honor
 Honorable
 Honoraires
@@ -570,7 +575,6 @@ japan
 Järjestövaliokunnan
 Jäsen
 Jeddah
-Jefferson City
 Jegyző
 Jerusalem
 Johannesburg
@@ -713,9 +717,6 @@ Montevideo
 Morocco
 Moscow
 mozambique
-Mr
-Mrs
-Ms
 Mumbai
 München
 Myanmar
@@ -752,7 +753,7 @@ nominee
 Nordisk
 North
 Northern
-Norway 
+Norway
 Nuclear
 Núcleo
 Nurse
@@ -776,7 +777,7 @@ officio
 Ogranak
 Ohio
 Oklahoma
-Oklahoma City
+City
 Oncologia
 oncologist
 Oncology
@@ -856,7 +857,7 @@ Policlinico
 Policy
 Polyclinic
 polytechnique
-Portugal 
+Portugal
 position
 Post
 Potpredsednik
@@ -917,7 +918,7 @@ Proctología
 Procurement
 Prof
 Profesor
-Professeur 
+Professeur
 Professional
 Professor
 Proffessor
@@ -1119,8 +1120,8 @@ Studi
 study
 Styre
 Sub
-Sub-committee
-Sub-group
+committee
+group
 Subcomm
 subcommittee
 Subgroup
@@ -1135,7 +1136,7 @@ surgeon
 surgery
 Surgical
 Surveillance
-Sweden 
+Sweden
 Switzerland
 syria
 Systematic
@@ -1154,7 +1155,7 @@ Tajomník
 Tallinn
 tanzania
 Task
-Task-Force
+Force
 taskforce
 TBA
 TBC
@@ -1240,7 +1241,6 @@ Universitätsspital
 Université
 Universitetssjukhuset
 University
-University 
 Universtity
 Univesitario
 Uprava
