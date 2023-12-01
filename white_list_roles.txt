@@ -418,7 +418,7 @@ Chancellor
 Chairperson
 Vicepreședinte
 Præsident
-Portparol
+portparol
 Varapuheenjohtaja
 Varajäsen
 Místopředseda
