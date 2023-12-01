@@ -415,3 +415,6 @@ Organizer
 Spoke Person
 Spokeperson
 Chancellor
+Chairperson
+Vicepreședinte
+Præsident
