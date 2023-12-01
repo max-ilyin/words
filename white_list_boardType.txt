@@ -259,3 +259,5 @@ Senado
 Senate
 Betriebsrat
 División
+Direcção
+Assembleia
