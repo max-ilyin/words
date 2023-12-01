@@ -411,3 +411,7 @@ Verantwoordelijke
 Chairman
 Vice-chairman
 Sócio
+Organizer
+Spoke Person
+Spokeperson
+Chancellor
