@@ -431,3 +431,5 @@ Místopředsedkyně
 Zástupkyně
 Generalsekretär
 Vorstandsmitglied
+Kommissionsmitglied
+Delegierter
