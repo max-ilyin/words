@@ -426,3 +426,6 @@ Sekreterare
 Hedersmedlem
 Styrelseassistent
 Člen
+Kontrolor
+Místopředsedkyně
+Zástupkyně
