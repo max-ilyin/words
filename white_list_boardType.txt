@@ -267,3 +267,5 @@ Team
 Kurul
 patientsäkerhetsrådet
 Avdelning
+kommitté
+utskott
