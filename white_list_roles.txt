@@ -437,3 +437,11 @@ Delegierter
 Vice-Présidente
 Présidente
 Vice Présidente
+Adjungerad
+Styrelseledamot
+Revisorsuppleant
+Sammankallande
+Förbundsordförande
+Kongressombud
+Avdelningsordförande
+Kongressombud
