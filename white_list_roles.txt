@@ -388,6 +388,7 @@ Historian
 代議員
 委員
 メンバー
+董事會員
 Facilitator
 Fundador
 Consejero
@@ -433,3 +434,6 @@ Generalsekretär
 Vorstandsmitglied
 Kommissionsmitglied
 Delegierter
+Vice-Présidente
+Présidente
+Vice Présidente
