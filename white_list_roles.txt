@@ -429,3 +429,5 @@ Styrelseassistent
 Kontrolor
 Místopředsedkyně
 Zástupkyně
+Generalsekretär
+Vorstandsmitglied
