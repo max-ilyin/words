@@ -263,3 +263,5 @@ Direcção
 Assembleia
 Echipa
 Direktionen
+Team
+Kurul
