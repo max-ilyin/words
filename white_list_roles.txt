@@ -14,6 +14,7 @@ Beauftragter
 Beisitzer
 Beisitzerin
 Bendahara
+Bestyrelsesmedlem
 Blagajničarka
 Blagajnik
 Cashier
