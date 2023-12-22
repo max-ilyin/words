@@ -132,6 +132,7 @@ Nämnd
 nefnd
 Network
 Netzwerk
+Netværk
 Neuvosto
 neuvottelukunta
 Núcleo
