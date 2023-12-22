@@ -71,6 +71,7 @@ Fellow
 First Year Regent
 Formaður
 Formand
+Formanden
 Geschäftsführer
 Geschäftsführerin
 Gjaldkeri
@@ -118,11 +119,13 @@ Miembro
 Mitglied
 Namestnica
 Namestnik
+Næstformand
 Obmann
 Observer
 Ordförande
 Parliamentarian
 pārstāve
+Patientrepræsentant
 Patron
 Penasehat
 Penasihat
