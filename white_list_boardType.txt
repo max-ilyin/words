@@ -59,6 +59,7 @@ Ereleden
 ExCo
 EXCO
 Executive Body
+expertisegroep
 fachbereich
 Fachgremium
 Fellows
@@ -78,6 +79,7 @@ grupp
 Grupul
 Hallitus
 Hedersledamöter
+Hedersmedlemmar
 Heiðursráð
 Honorable Members
 Honorary Advisors
@@ -104,6 +106,7 @@ Komisia
 Komisija
 Komisja
 Komisje
+Komisyonu
 Komite
 komité
 Kommission
