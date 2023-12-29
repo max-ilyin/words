@@ -13,12 +13,15 @@ Bastonário
 Beauftragter
 Beisitzer
 Beisitzerin
+Beleidsadviseur
 Bendahara
 Bestyrelsesmedlem
 Blagajničarka
 Blagajnik
 Cashier
 Chair
+Chairwoman
+Chairman
 Član
 Člen
 Co-optee
@@ -54,6 +57,7 @@ Delegat
 Delegate
 Delegierte
 Délégué
+Deputy
 Directeur
 Director
 Directora
@@ -213,6 +217,7 @@ Sekretaris
 Sekretárka
 Sekretarz
 Sekreter
+Sekreteri
 Sektretár
 Sihteeri
 Síndico
@@ -228,6 +233,7 @@ tag
 Tajnica
 Tajnik
 Tajomník
+Temsilcisi
 Tesorera
 Tesorería
 Tesorero
