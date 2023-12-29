@@ -149,8 +149,7 @@ Brussels
 Bruxelles
 Bucharest
 Budapest
-Buenos
-Aires
+Buenos Aires
 Bulgaria
 Bureau
 Burgas
@@ -436,7 +435,6 @@ Fiscal
 fondatore
 fondatori
 Fondazione
-Fonseca
 Force
 Forensic
 Formaður
@@ -502,8 +500,7 @@ Herzigovina
 High
 Histopathology
 honduras
-Hong
-Kong
+Hong Kong
 Honor
 Honorable
 Honoraires
