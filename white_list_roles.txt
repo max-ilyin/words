@@ -6,6 +6,7 @@ Advisor
 Anggota
 Apprentice
 Asesor
+Asesora
 Assessor
 Auditor
 Başkan
@@ -169,6 +170,7 @@ Prezident
 Prezidente
 Prezidentka
 Prezidents
+Prosecretaria
 Przedstawiciel
 Przedstawicielka
 Przewodnicząca
@@ -294,6 +296,7 @@ předseda
 sekretář
 Tajemník
 Revizor
+Revisora
 důvěrník
 Člen
 Členka
