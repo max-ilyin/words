@@ -454,7 +454,6 @@ gambia
 Gastroenterological
 Gastroenterologist
 Gastroenterology
-Gene
 General
 genetic
 Geneticist
@@ -581,7 +580,6 @@ Jeddah
 Jegyző
 Jerusalem
 Johannesburg
-jordan
 journal
 Juhatus
 Juneau
@@ -1110,7 +1108,6 @@ Sports
 Sprecher
 Sprecherin
 Springfield
-St
 staff
 Standards
 Statistics
