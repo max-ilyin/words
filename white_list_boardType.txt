@@ -190,6 +190,7 @@ Sub-committee
 Sub-group
 Subcomm
 Subcommittee
+Şubesi
 Subgroup
 Svet
 Szakosztály
