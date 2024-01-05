@@ -17,6 +17,7 @@ BS Officers
 Bureau
 Cabang
 Çalışma Grubu
+Çalişma Grubu
 Capítulo
 Chapter
 Člen
@@ -110,6 +111,8 @@ Komisyonu
 Komite
 komité
 Kommission
+Konseyi
+Konsey
 Kunniajäsenet
 Kuratorium
 Kuratórium
