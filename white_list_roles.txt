@@ -87,6 +87,7 @@ Integrante
 Jäsen
 Kassaförvaltare
 Kassenführer
+Kassenführerin
 Kassenprüfer
 Kassenverwalter
 Kassenwart
@@ -229,6 +230,7 @@ Skattmästare
 Socio de Honor
 Socio fondatore
 Socio onorario
+Sprecher
 Stellvertretung
 Successor
 Suplente
