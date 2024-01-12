@@ -9,6 +9,8 @@ Asesor
 Asesora
 Assessor
 Auditor
+Assistentensprecher
+Assistentensprecherin
 Başkan
 Bastonário
 Beauftragter
@@ -173,6 +175,8 @@ Prezidente
 Prezidentka
 Prezidents
 Prosecretaria
+Prosecretario
+Protesorero
 Przedstawiciel
 Przedstawicielka
 Przewodnicząca
