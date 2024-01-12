@@ -101,6 +101,7 @@ jaos
 Johtokunta
 Juhatus
 Junta
+Jurado
 Kelompok Studi
 Komisi
 Komisia
