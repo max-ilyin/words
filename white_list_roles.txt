@@ -69,6 +69,8 @@ Diretor
 Diretora
 Direttivo
 Direttore
+Dopredsjednik
+dopredsjednica
 edustaja
 elnök
 Federführend
@@ -95,6 +97,7 @@ Kassenverwalter
 Kassenwart
 Kasserer
 Kassier
+Kassierin
 Kassör
 képviselő
 Ketua
