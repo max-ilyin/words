@@ -57,6 +57,7 @@ Councillor
 Councilor
 Członek
 Członka
+Danışman
 Delegado
 Delegat
 Delegate
