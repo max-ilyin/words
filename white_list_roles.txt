@@ -9,6 +9,7 @@ Asesor
 Asesora
 Assessor
 Auditor
+Ausschussmitglied
 Assistentensprecher
 Assistentensprecherin
 Başkan
@@ -18,6 +19,7 @@ Beisitzer
 Beisitzerin
 Beleidsadviseur
 Bendahara
+Berater
 Bestyrelsesmedlem
 Blagajničarka
 Blagajnik
@@ -73,6 +75,7 @@ Dopredsjednik
 dopredsjednica
 edustaja
 elnök
+Ehrenvorsitzender
 Federführend
 Federführende
 Federführender
@@ -197,6 +200,7 @@ Representant
 Représentant
 Representative
 Reprezentant
+Residente
 Revisor
 Ritari
 Savetnik
@@ -230,6 +234,8 @@ Sekretarz
 Sekreter
 Sekreteri
 Sektretár
+Seniormitglied
+Schatzmeister
 Sihteeri
 Síndico
 Skarbnik
@@ -239,6 +245,8 @@ Socio fondatore
 Socio onorario
 Sprecher
 Stellvertretung
+Stellvertreter
+Stellvertreterin
 Successor
 Suplente
 tag
