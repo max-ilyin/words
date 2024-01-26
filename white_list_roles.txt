@@ -433,6 +433,11 @@ Subsecretaría
 Subtesorero
 Gobernador
 Vicepresidenta
+Vicesecretario
+Vicecoordinadora
+Vicecoordinador
+Vicetesorero
+Vicesecretaria
 Representante
 Betriebsratsmitglied
 Kassaverwaltung
