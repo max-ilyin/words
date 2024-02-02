@@ -241,6 +241,7 @@ Sihteeri
 Síndico
 Skarbnik
 Skattmästare
+Soci De Honor
 Socio de Honor
 Socio fondatore
 Socio onorario
