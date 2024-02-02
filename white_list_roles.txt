@@ -202,6 +202,7 @@ Représentant
 Representative
 Reprezentant
 Residente
+Responsabile
 Revisor
 Ritari
 Savetnik
@@ -245,6 +246,8 @@ Soci De Honor
 Socio de Honor
 Socio fondatore
 Socio onorario
+Socio ordinario
+Socio
 Sprecher
 Stellvertretung
 Stellvertreter
