@@ -59,6 +59,7 @@ Członek
 Członka
 Danışman
 Delegado
+Delegato
 Delegat
 Delegate
 Delegierte
