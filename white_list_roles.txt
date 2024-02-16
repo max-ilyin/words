@@ -21,6 +21,7 @@ Beleidsadviseur
 Bendahara
 Berater
 Bestyrelsesmedlem
+Bestuurslid
 Blagajničarka
 Blagajnik
 Cashier
