@@ -142,6 +142,7 @@ Mitglied
 Namestnica
 Namestnik
 Næstformand
+Nestleder
 Obmann
 Observer
 Ordförande
