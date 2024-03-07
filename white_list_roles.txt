@@ -15,6 +15,7 @@ Assistentensprecherin
 Başkan
 Bastonário
 Beauftragter
+Beisitz
 Beisitzer
 Beisitzerin
 Beleidsadviseur
@@ -130,6 +131,7 @@ Líder
 liige
 Loceklis
 medlem
+Medlemsansvarlig
 Meðlimur
 Member
 Membre
@@ -241,6 +243,7 @@ Sekreter
 Sekreteri
 Sektretár
 Seniormitglied
+Seniorrådgiver
 Schatzmeister
 Sihteeri
 Síndico
@@ -256,6 +259,7 @@ Sprecher
 Stellvertretung
 Stellvertreter
 Stellvertreterin
+Styremedlem
 Successor
 Suplente
 tag
@@ -279,6 +283,7 @@ Trésorière
 Trustee
 Üye
 Varainhoitaja
+Varamedlem
 Vertegenwoordiger
 vertretender
 Vertreter
