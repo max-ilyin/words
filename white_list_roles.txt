@@ -96,6 +96,7 @@ Gjaldkeri
 Governador
 Governadora
 Governor
+Hedersledamot
 Integrante
 Jäsen
 Kassaförvaltare
