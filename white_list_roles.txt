@@ -236,6 +236,7 @@ sekretær
 Sekretar
 Sekretár
 Sekretär
+Sekretärin
 Sekretāre
 Sekretaris
 Sekretárka
@@ -283,6 +284,7 @@ Trésorier
 Trésorière
 Trustee
 Üye
+Uddannelsesudvalgsmedlem
 Varainhoitaja
 Varamedlem
 Vertegenwoordiger
